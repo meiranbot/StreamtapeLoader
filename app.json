@@ -7,9 +7,9 @@
     "streamtape",
     "downloader"
   ],
-  "success_url": "https://github.com/X-Gorn/StreamtapeLoader",
-  "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/StreamtapeLoader",
+  "success_url": "https://github.com/meiranbot/StreamtapeLoader",
+  "website": "https://github.com/meiranbot/",
+  "repository": "https://github.com/meiranbot/StreamtapeLoader",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
@@ -45,7 +45,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
